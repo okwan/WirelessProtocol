@@ -1,0 +1,7 @@
+so fresh
+
+
+
+jytrjylulku
+
+	MessageBox (NULL, file, ("Selected Text from Listbox:"), MB_OK);
